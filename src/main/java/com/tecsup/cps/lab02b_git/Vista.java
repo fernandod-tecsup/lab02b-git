@@ -4,3 +4,4 @@ public class Vista {
  int cla;
  int ga;
 }
+
