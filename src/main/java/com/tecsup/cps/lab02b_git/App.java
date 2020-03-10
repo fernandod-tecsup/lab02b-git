@@ -21,6 +21,11 @@ public class App
     	System.out.println("asda");
     	
     }
+    public static void metodo_dev02() {
+    	System.out.println("gaaaj");
+    	System.out.println("asda");
+    	
+    }
 }
 
 
