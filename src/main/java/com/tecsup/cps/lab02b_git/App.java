@@ -12,12 +12,9 @@ public class App
         System.out.println( " Comentario final " );
 
     }
-    public static void metodo_dev01() {
-
-    }
     
     public static void metodo_dev03() {
-    	System.out.println("gaaa");
+    	System.out.println("gaaaj");
     	System.out.println("asda");
     	
     }
